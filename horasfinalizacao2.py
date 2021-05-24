@@ -1,3 +1,6 @@
+## INTERFACE GRÁFICA EM ANDAMENTO
+
+
 from tkinter import *
 class Calculadora(object):
     def __init__(self, instancia):
